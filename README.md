@@ -9,7 +9,7 @@ This solves the problem when only **mono** output is recognized for Nari.
 ## Installing
 
 ### PipeWire
-
+Kububt uses just pipewire.
 If you use PipeWire, use the ``install-pipewire.sh`` script.
 
 If you see the default profiles (names like *Multichannel*)
